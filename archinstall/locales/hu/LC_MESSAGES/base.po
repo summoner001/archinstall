@@ -442,7 +442,7 @@ msgid ""
 "This is your chosen configuration:"
 msgstr ""
 "\n"
-"Ez az ön által választott konfiguráció:"
+"A választott konfigurációja:"
 
 msgid "Pacman is already running, waiting maximum 10 minutes for it to terminate."
 msgstr "A Pacman már fut, várjon maximum 10 percet a megszakításával."
@@ -1072,7 +1072,7 @@ msgstr ""
 "Válasszon ki egy grafikus illesztőprogramot, vagy hagyja üresen az összes nyílt forráskódú illesztőprogram telepítéséhez"
 
 msgid "Sway needs access to your seat (collection of hardware devices i.e. keyboard, mouse, etc)"
-msgstr "A Swaynek hozzáférésre van szüksége az Ön munkamenetéhez (olyan hardvereszközök gyűjteményéhez, mint például a billentyűzet, az egér, stb.)"
+msgstr "A Swaynek hozzáférésre van szüksége a munkamenetéhez (olyan hardvereszközök gyűjteményéhez, mint például a billentyűzet, az egér, stb.)"
 
 msgid ""
 "\n"
@@ -1231,7 +1231,7 @@ msgid "Invalid input! Try again with a valid input [or 0 to disable]"
 msgstr "Érvénytelen bemenet! Próbálja újra egy érvényes bemenettel [vagy 0-t a letiltáshoz]"
 
 msgid "Hyprland needs access to your seat (collection of hardware devices i.e. keyboard, mouse, etc)"
-msgstr "A Hyprlandnek hozzáférésre van szüksége az Ön munkamenetéhez (olyan hardvereszközök gyűjteményéhez, mint például a billentyűzet, az egér, stb.)"
+msgstr "A Hyprlandnek hozzáférésre van szüksége a munkamenetéhez (olyan hardvereszközök gyűjteményéhez, mint például a billentyűzet, az egér, stb.)"
 
 msgid ""
 "\n"
@@ -1663,13 +1663,13 @@ msgid "Exit search mode"
 msgstr "Kilépés a keresési módból"
 
 msgid "labwc needs access to your seat (collection of hardware devices i.e. keyboard, mouse, etc)"
-msgstr "A Labwc-nek hozzáférésre van szüksége az Ön munkamenetéhez (olyan hardvereszközök gyűjteményéhez, mint például a billentyűzet, az egér, stb.)"
+msgstr "A Labwc-nek hozzáférésre van szüksége a munkamenetéhez (olyan hardvereszközök gyűjteményéhez, mint például a billentyűzet, az egér, stb.)"
 
 msgid "Choose an option to give labwc access to your hardware"
 msgstr "Válasszon ki egy beállítást, hogy engedélyezze a Labwc számára a hardverekhez való hozzáférést"
 
 msgid "niri needs access to your seat (collection of hardware devices i.e. keyboard, mouse, etc)"
-msgstr "A Nirinek hozzáférésre van szüksége az Ön munkamenetéhez (olyan hardvereszközök gyűjteményéhez, mint például a billentyűzet, az egér, stb.)"
+msgstr "A Nirinek hozzáférésre van szüksége a munkamenetéhez (olyan hardvereszközök gyűjteményéhez, mint például a billentyűzet, az egér, stb.)"
 
 msgid "Choose an option to give niri access to your hardware"
 msgstr "Válasszon ki egy beállítást, hogy engedélyezze a Niri számára a hardverekhez való hozzáférést"
