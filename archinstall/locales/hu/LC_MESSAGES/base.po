@@ -442,7 +442,7 @@ msgid ""
 "This is your chosen configuration:"
 msgstr ""
 "\n"
-"A választott konfigurációja:"
+"Ez a kiválasztott konfigurációja:"
 
 msgid "Pacman is already running, waiting maximum 10 minutes for it to terminate."
 msgstr "A Pacman már fut, várjon maximum 10 percet a megszakításával."
